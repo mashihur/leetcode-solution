@@ -3,15 +3,18 @@ List of different leetcode problems given below
 
 
 # Array
-
+<b>L215</b> Kth Largest Element in an Array - Medium </br>
 
 # String
-L5. Longest Palindromic Substring - Medium 
-
-L387. First Unique Character in a String - Easy
+<b>L5</b> Longest Palindromic Substring - Medium </br>
+<b>L387</b> First Unique Character in a String - Easy </br>
+<b>L38</b> Count and Say - Medium
 
 # Dynamic Programming
-L139. Word Break - Medium
+<b>L139</b> Word Break - Medium
+
+# Stack
+<b>L155</b> - Min Stack - Easy
 
 # Bit Manipulation
-L191. Number of 1 Bits - Easy
+<b>L191</b> Number of 1 Bits - Easy
