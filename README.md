@@ -4,6 +4,7 @@ List of different leetcode problems given below
 
 # Array
 <b>L215</b> Kth Largest Element in an Array - Medium </br>
+<b>L454</b> 4Sum II - Medium </br>
 
 # String
 <b>L5</b> Longest Palindromic Substring - Medium </br>
@@ -18,3 +19,6 @@ List of different leetcode problems given below
 
 # Bit Manipulation
 <b>L191</b> Number of 1 Bits - Easy
+
+# Linked List
+<b>L21</b> Merge Two Sorted Lists - Easy
