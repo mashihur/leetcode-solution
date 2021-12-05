@@ -10,7 +10,8 @@ List of different leetcode problems given below
 # String
 <b>L5</b> Longest Palindromic Substring - Medium </br>
 <b>L387</b> First Unique Character in a String - Easy </br>
-<b>L38</b> Count and Say - Medium
+<b>L38</b> Count and Say - Medium </br>
+<b>L14</b> Longest Common Prefix - Easy </br>
 
 # Dynamic Programming
 <b>L139</b> Word Break - Medium
