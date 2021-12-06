@@ -27,3 +27,6 @@ List of different leetcode problems given below
 
 # Backtracking
 <b>L131</b> Palindrome Partitioning - Medium
+
+# Tree
+<b>L208</b> Implement Trie (Prefix Tree) - Medium
