@@ -6,6 +6,7 @@ List of different leetcode problems given below
 <b>L215</b> Kth Largest Element in an Array - Medium </br>
 <b>L454</b> 4Sum II - Medium </br>
 <b>L347</b> Top K Frequent Elements - Medium </br>
+<b>L384</b> Shuffle an Array - Medium </br>
 
 # String
 <b>L5</b> Longest Palindromic Substring - Medium </br>
