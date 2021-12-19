@@ -31,3 +31,4 @@ List of different leetcode problems given below
 
 # Tree
 <b>L208</b> Implement Trie (Prefix Tree) - Medium
+<b>L617</b> Merge Two Binary Trees - Easy
