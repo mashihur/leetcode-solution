@@ -16,7 +16,10 @@ List of different leetcode problems given below
 <b>L14</b> Longest Common Prefix - Easy </br>
 
 # Dynamic Programming
-<b>L139</b> Word Break - Medium
+<b>L139</b> Word Break - Medium </br>
+
+# Matrix
+<b>L221</b> Maximal Square - Medium </br>
 
 # Stack
 <b>L155</b> Min Stack - Easy
@@ -32,4 +35,6 @@ List of different leetcode problems given below
 
 # Tree
 <b>L208</b> Implement Trie (Prefix Tree) - Medium </br>
-<b>L617</b> Merge Two Binary Trees - Easy
+<b>L617</b> Merge Two Binary Trees - Easy </br>
+<b>L105</b> Construct Binary Tree from Preorder and Inorder Traversal - Medium </br>
+<b>L112</b> Path Sum - Easy </br>
