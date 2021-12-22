@@ -8,6 +8,7 @@ List of different leetcode problems given below
 <b>L347</b> Top K Frequent Elements - Medium </br>
 <b>L384</b> Shuffle an Array - Medium </br>
 <b>L448</b> Find All Numbers Disappeared in an Array - Easy </br>
+<b>L494</b> Target Sum - Medium </br>
 
 # String
 <b>L5</b> Longest Palindromic Substring - Medium </br>
