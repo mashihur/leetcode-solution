@@ -39,3 +39,6 @@ List of different leetcode problems given below
 <b>L617</b> Merge Two Binary Trees - Easy </br>
 <b>L105</b> Construct Binary Tree from Preorder and Inorder Traversal - Medium </br>
 <b>L112</b> Path Sum - Easy </br>
+
+# Etc.
+<b>L326</b> Power of Three - Easy </br>
