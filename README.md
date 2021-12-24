@@ -9,6 +9,7 @@ List of different leetcode problems given below
 <b>L384</b> Shuffle an Array - Medium </br>
 <b>L448</b> Find All Numbers Disappeared in an Array - Easy </br>
 <b>L494</b> Target Sum - Medium </br>
+<b>L66</b> Plus One - Easy </br>
 
 # String
 <b>L5</b> Longest Palindromic Substring - Medium </br>
@@ -42,3 +43,4 @@ List of different leetcode problems given below
 
 # Etc.
 <b>L326</b> Power of Three - Easy </br>
+<b>L412</b> Fizz Buzz - Easy </br>
