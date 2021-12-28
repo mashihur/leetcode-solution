@@ -16,6 +16,8 @@ List of different leetcode problems given below
 <b>L387</b> First Unique Character in a String - Easy </br>
 <b>L38</b> Count and Say - Medium </br>
 <b>L14</b> Longest Common Prefix - Easy </br>
+<a href="https://leetcode.com/problems/valid-palindrome/">125. Valid Palindrome - Easy</a> </br>
+
 
 # Dynamic Programming
 <b>L139</b> Word Break - Medium </br>
