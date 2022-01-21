@@ -43,6 +43,9 @@ List of different leetcode problems given below
 <b>L617</b> Merge Two Binary Trees - Easy </br>
 <b>L105</b> Construct Binary Tree from Preorder and Inorder Traversal - Medium </br>
 <b>L112</b> Path Sum - Easy </br>
+<a href="https://leetcode.com/problems/search-in-a-binary-search-tree/">700. Search in a Binary Search Tree - Easy</a> </br>
+<a href="https://leetcode.com/problems/insert-into-a-binary-search-tree/">701. Insert into a Binary Search Tree - Medium</a> </br>
+
 
 # Etc.
 <b>L326</b> Power of Three - Easy </br>
