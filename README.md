@@ -47,6 +47,8 @@ List of different leetcode problems given below
 <a href="https://leetcode.com/problems/search-in-a-binary-search-tree/">700. Search in a Binary Search Tree - Easy</a> </br>
 <a href="https://leetcode.com/problems/insert-into-a-binary-search-tree/">701. Insert into a Binary Search Tree - Medium</a> </br>
 
+# Math
+<a href="https://leetcode.com/problems/happy-number/">202. Happy Number - Easy</a> </br>
 
 # Etc.
 <b>L326</b> Power of Three - Easy </br>
