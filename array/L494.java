@@ -3,7 +3,7 @@ package array;
 /*
  * Company : Google, Facebook
  * LeetCode Difficulty: Medium
- * My Judgement: Medium - Can be solved using dynamic programming 
+ * My Judgement: Medium - Can be solved using dynamic programming
  */
 public class L494 {
 

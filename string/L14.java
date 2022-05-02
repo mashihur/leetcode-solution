@@ -6,7 +6,7 @@ package string;
  */
 public class L14 {
 
-    public String longestCommonPrefix(String[] strs) {
+    public String longestCommonPrefix(String[] strs) { // Not the best approach
         int count, len, i, j;
         len = count = strs[0].length();
         for (i = 1; i < strs.length; i++) {

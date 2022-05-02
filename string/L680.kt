@@ -9,7 +9,6 @@ class L680 {
     fun validPalindrome(s: String): Boolean {
         var i = 0
         var j = s.length - 1
-        var deleted = 0
         while(i < j) {
             if (s[i] != s[j]) {
                 return isValid(s, i + 1, j) || isValid(s, i, j - 1)

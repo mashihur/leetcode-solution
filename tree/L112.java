@@ -4,7 +4,6 @@ package tree;
  * Company : Microsoft
  * LeetCode Difficulty: Easy
  * My Judgement: Easy
- * Best Solution
  */
 public class L112 {
 

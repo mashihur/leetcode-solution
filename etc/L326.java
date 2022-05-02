@@ -3,7 +3,7 @@ package etc;
 /*
  * Company : Google
  * LeetCode Difficulty: Easy
- * My Judgement: Easy
+ * My Judgement: Easy - similar L231
  */
 public class L326 {
     public boolean isPowerOfThree(int n) {

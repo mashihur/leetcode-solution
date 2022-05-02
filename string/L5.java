@@ -6,7 +6,7 @@ import org.junit.Test;
 /*
  * Company : Amazon, Microsoft, Bloomberg, Uber
  * LeetCode Difficulty: Medium
- * My Judgement: Medium - Problem seems easy but tricky
+ * My Judgement: Medium - Problem seems easy but tricky, similar problem L647
  */
 public class L5 {
 
