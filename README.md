@@ -21,10 +21,9 @@ List of different leetcode problems given below
 <a href="https://leetcode.com/problems/sort-colors/">75. Sort Colors - Medium</a> </br>
 <a href="https://leetcode.com/problems/merge-sorted-array/">88. Merge Sorted Array - Easy</a> </br>
 <a href="https://leetcode.com/problems/shuffle-an-array/">384. Shuffle an Array - Medium</a> </br>
-<b>L454</b> 4Sum II - Medium </br>
-<b>L347</b> Top K Frequent Elements - Medium </br>
-<b>L384</b> Shuffle an Array - Medium </br>
-<b>L448</b> Find All Numbers Disappeared in an Array - Easy </br>
+<a href="https://leetcode.com/problems/rotate-array/">189. Rotate Array - Medium</a> </br>
+<a href="https://leetcode.com/problems/non-overlapping-intervals/">435. Non-overlapping Intervals - Medium</a> </br>
+
 
 # String
 <a href="https://leetcode.com/problems/valid-palindrome/">125. Valid Palindrome - Easy</a> </br>
@@ -61,6 +60,7 @@ List of different leetcode problems given below
 <a href="https://leetcode.com/problems/unique-paths/">62. Unique Paths - Medium</a> </br>
 <a href="https://leetcode.com/problems/unique-paths-ii/">63. Unique Paths II - Medium</a> </br>
 <a href="https://leetcode.com/problems/minimum-path-sum/">64. Minimum Path Sum - Medium</a> </br>
+<a href="https://leetcode.com/problems/decode-ways/">91. Decode Ways - Medium</a> </br>
 
 # Matrix
 <a href="https://leetcode.com/problems/maximal-square/">221. Maximal Square - Medium</a> </br>
