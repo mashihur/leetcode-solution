@@ -1,9 +1,11 @@
 package array;
 
 /*
- * Company : Suggested Interview Question
+ * Company : Amazon 54, Google 11, Facebook 10, Microsoft 20, Apple 12, Adobe 13
  * LeetCode Difficulty: Easy
  * My Judgement: Easy
+ * Time Complexity: O(N)
+ * Space Complexity: O(1)
  */
 public class L121 {
     public int maxProfit(int[] prices) {

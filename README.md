@@ -7,6 +7,7 @@ List of different leetcode problems given below
 <a href="https://leetcode.com/problems/container-with-most-water/">11. Container With Most Water - Medium</a> </br>
 <a href="https://leetcode.com/problems/3sum/">15. 3Sum - Medium</a> </br>
 <a href="https://leetcode.com/problems/3sum-closest/">16. 3Sum Closest - Medium</a> </br>
+<a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/">121. Best Time to Buy and Sell Stock - Easy</a> </br>
 <a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/">122. Best Time to Buy and Sell Stock II - Medium</a> </br>
 <a href="https://leetcode.com/problems/kth-largest-element-in-an-array/">215. Kth Largest Element in an Array - Medium</a> </br>
 <a href="https://leetcode.com/problems/top-k-frequent-elements/">347. Top K Frequent Elements - Medium</a> </br>
@@ -23,6 +24,7 @@ List of different leetcode problems given below
 <a href="https://leetcode.com/problems/shuffle-an-array/">384. Shuffle an Array - Medium</a> </br>
 <a href="https://leetcode.com/problems/rotate-array/">189. Rotate Array - Medium</a> </br>
 <a href="https://leetcode.com/problems/non-overlapping-intervals/">435. Non-overlapping Intervals - Medium</a> </br>
+<a href="https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/">1010. Pairs of Songs With Total Durations Divisible by 60 - Medium</a> </br>
 
 
 # String
